@@ -988,6 +988,7 @@ section {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 .team .member .member-img {
+  margin: auto;
   position: relative;
   overflow: hidden;
 }
