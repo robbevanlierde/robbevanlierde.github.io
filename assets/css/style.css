@@ -980,7 +980,7 @@ section {
   padding: 60px 0;
 }
 .team .member {
-  margin-bottom: 20px;
+  margin-bottom: auto;
   overflow: hidden;
   border-radius: 5px;
   background: #fff;
