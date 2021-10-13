@@ -1348,7 +1348,6 @@ section {
 
 .excel {
   margin: auto;
-  width: 60%;
-  border: 5px solid #FFFF00;
-  padding: 10px;
+  width: 40%;
+  padding: 1px;
   }
