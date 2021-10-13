@@ -1072,7 +1072,7 @@ section {
   padding: 0 0 0 60px;
   font-size: 22px;
   font-weight: 600;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   color: #151515;
 }
 .contact .info p {
@@ -1089,7 +1089,7 @@ section {
   background: #fff;
 }
 .contact .php-email-form .form-group {
-  padding-bottom: 0px;
+  padding-bottom: 8px;
 }
 .contact .php-email-form .error-message {
   display: none;
