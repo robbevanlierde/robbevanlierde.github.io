@@ -1082,7 +1082,7 @@ section {
   color: #484848;
 }
 .contact .info .email, .contact .info .phone {
-  margin-top: 40px;
+  margin-top: 0px;
 }
 .contact .php-email-form {
   width: 100%;
@@ -1288,7 +1288,7 @@ section {
   padding-right: 2px;
   color: #ffc451;
   font-size: 18px;
-  line-height: 0;
+  line-height: 1;
 }
 #footer .footer-top .footer-links ul li {
   padding: 10px 0;
