@@ -978,18 +978,16 @@ section {
 .team {
   background: #fff;
   padding: 60px 0;
-  width: 50%;
 }
 .team .member {
-  margin: auto;
   margin-bottom: 20px;
   overflow: hidden;
   border-radius: 5px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin: auto;
 }
 .team .member .member-img {
-  margin: auto;
   position: relative;
   overflow: hidden;
 }
@@ -1005,7 +1003,7 @@ section {
 .team .member .social a {
   transition: color 0.3s;
   color: #151515;
-  margin: auto;
+  margin: 0 3px;
   border-radius: 4px;
   width: 36px;
   height: 36px;
@@ -1351,5 +1349,4 @@ section {
 
 .excel {
   margin: auto;
-  width: 50%;
   }
