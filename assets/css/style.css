@@ -981,7 +981,7 @@ section {
 }
 .team .member {
   margin: auto;
-  margin-bottom: 20px;
+  /*margin-bottom: 20px;*/
   overflow: hidden;
   border-radius: 5px;
   background: #fff;
