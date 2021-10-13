@@ -1004,7 +1004,7 @@ section {
 .team .member .social a {
   transition: color 0.3s;
   color: #151515;
-  margin: 0 3px;
+  margin: auto;
   border-radius: 4px;
   width: 36px;
   height: 36px;
@@ -1350,6 +1350,4 @@ section {
 
 .excel {
   margin: auto;
-  width: 40%;
-  padding: 1px;
   }
